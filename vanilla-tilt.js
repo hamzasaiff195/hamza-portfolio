@@ -496,4 +496,4 @@ var VanillaTilt = (function () {
     return VanillaTilt;
     
     }());
-    // https://github.com/vinodjangid07
+    // https://github.com/hamza  ali07
